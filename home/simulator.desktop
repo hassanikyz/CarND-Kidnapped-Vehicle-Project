@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Simulator
+Path=/home/workspace/simulator
+Exec=bash -c "cd /home/workspace/simulator/ && ./term2_sim.x86_64"
+Icon=udacity-logo.png
+
+Terminal=false
+Type=Application
